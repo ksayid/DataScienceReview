@@ -1,5 +1,5 @@
 # Data Science Review
-> Me after 3 years at UChicago: 
+Me after 3 years at UChicago: 
 <a href="http://fvcproductions.com"><img src="https://data.whicdn.com/images/254993580/original.gif" title="FVCproductions" alt="FVCproductions"></a>
 
 ## Description
@@ -31,5 +31,6 @@ This is meant to be a long-term project, logging things that I've learned and re
 * Interview Problems
 * Full-Stack Development
 * Big Data Methods
+    * Data Engineering Basics
     * Distributed Computing
     * Parallel Computing
