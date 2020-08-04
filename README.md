@@ -3,7 +3,7 @@ A log of what I've learned at UChicago.
 
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+<!-- [![FVCproductions](https://media-exp1.licdn.com/dms/image/C4E03AQGFezlpA7f3LQ/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=inaSMekusSBmymUifOOxhuXp_LPxggayNPJW7MetLYU)](http://fvcproductions.com) -->
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
