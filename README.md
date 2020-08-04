@@ -1,7 +1,7 @@
-# DataScienceReview
+# Data Science Review
 A log of what I've learned at UChicago. 
 
-<a href="http://fvcproductions.com"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQGFezlpA7f3LQ/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=inaSMekusSBmymUifOOxhuXp_LPxggayNPJW7MetLYU" title="FVCproductions" alt="FVCproductions"></a>
+<a href="http://fvcproductions.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fweheartit.com%2Fentry%2F254993580&psig=AOvVaw3sDp9YydqVQvPk3QickNV2&ust=1596592266828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiugPi3gOsCFQAAAAAdAAAAABBC" title="FVCproductions" alt="FVCproductions"></a>
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
