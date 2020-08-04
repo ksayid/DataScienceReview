@@ -1,5 +1,6 @@
 # Data Science Review
 Me after 3 years at UChicago: 
+
 <a href="http://fvcproductions.com"><img src="https://data.whicdn.com/images/254993580/original.gif" title="FVCproductions" alt="FVCproductions"></a>
 
 ## Description
